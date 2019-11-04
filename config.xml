@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eva" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>VILLA</name>
+  <description>
+   MENU
+  </description>
+  <author href="" email="p0983394538@gmail.com">
+    CHIA
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="images/life.jpg"/>
+  </platform>
+</widget>
